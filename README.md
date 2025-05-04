@@ -5,3 +5,4 @@
 - IdeaNet - A place where problems get the attention of right people
 - emception - building emscripten to wasm with emscripten
 - Holobyte - Use Holograms property of storing whole image in small part to make outstanding data compression solution
+- Autopodcast - long MP3 + fuse + dropcaster
