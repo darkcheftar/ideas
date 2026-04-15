@@ -10,3 +10,4 @@
 - CTF ops - Record Everything you do and tweak it by probably editing a text file to redo but with the change and store everything to analyze, basically CI CD but for local for CTFs other places where you need to do probe.
 - Power Ranger - Power Estimation of lenses using distortion of known grid
 - fastcli - almost exact api like fastapi to build cli with option parsing and validation (nah typer does not do)
+- IDgen - Use Blender-ish software to generate training data for Image processing ML models
