@@ -8,3 +8,5 @@
 - Autopodcast - long MP3 + fuse + dropcaster
 - CrowdTrainer - Can we use the unused cpu from a populus contry to train AI model, something similar to [https://www.mersenne.org/](mersenne.org) but for AI training
 - CTF ops - Record Everything you do and tweak it by probably editing a text file to redo but with the change and store everything to analyze, basically CI CD but for local for CTFs other places where you need to do probe.
+- Power Ranger - Power Estimation of lenses using distortion of known grid
+- fastcli - almost exact api like fastapi to build cli with option parsing and validation (nah typer does not do)
